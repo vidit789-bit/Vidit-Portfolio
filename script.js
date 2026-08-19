@@ -10,7 +10,7 @@ const skillsList = [
 const projectsData = [
   {
     tag:'01', period:'Healthcare Platform',
-    image:'images/proj-patient-portal.svg',
+    image:'proj-patient-portal.svg',
     title:'Patient Portal & Healthcare Management Platform',
     desc:'Built a modern patient engagement platform that simplifies appointment scheduling, provider discovery, secure messaging, medical document sharing, and online payments.',
     stack:['Angular','TypeScript','HIPAA Compliance','Bootstrap'],
