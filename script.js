@@ -41,7 +41,7 @@ const projectsData = [
   },
   {
     tag:'03', period:'Telehealth Platform',
-    image:'images/proj-telehealth.svg',
+    image:'proj-telehealth.svg',
     title:'HIPAA Compliant Telehealth Platform | Video Consultation & Virtual Care',
     desc:'Developed a HIPAA-compliant Telehealth platform enabling healthcare providers to conduct secure virtual consultations while delivering a seamless digital healthcare experience.',
     stack:['Angular','Agora Video API','HIPAA','TypeScript','WebRTC'],
