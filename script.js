@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     tag:'02', period:'Healthcare EHR Platform',
-    image:'images/proj-ehr-billing.svg',
+    image:'proj-ehr-billing.svg',
     title:'HIPAA-Compliant Medical Billing & EHR Platform with EDI 837 Claims',
     desc:'Developed a HIPAA-compliant Electronic Health Records (EHR) and Medical Billing platform for behavioral healthcare providers, enabling secure patient management and automated insurance claim processing.',
     stack:['Angular','HIPAA','EDI 837','TypeScript','Healthcare APIs'],
